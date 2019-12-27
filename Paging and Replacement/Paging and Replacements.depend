@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1577465278 source:c:\users\smc\desktop\paging and replacements\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+
