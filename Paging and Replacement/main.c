@@ -254,7 +254,7 @@ int main(){
         printf("\n-------------------------------------");
         printf("\nNumber of page faults = %d\n",res);
     	free(policy);
-		free(frame);
-		free(ref);
+        free(frame);
+        free(ref);
     	return 0;
 }
